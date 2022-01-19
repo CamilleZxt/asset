@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T09:39:29.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="V8VUt9F6fPmZLHmrgHDE" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T09:41:18.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="3-Fqls4cOL1t5jO1tBUa" version="16.1.0" type="github">
   <diagram id="1WfknyZP9FfiymJWjheU" name="Page-1">
     <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,6 +25,9 @@
         <mxCell id="tNKBGbFyiwu89ULKIqhC-6" value="&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34; ; font-variant: normal ; text-transform: none ; font-style: normal ; vertical-align: baseline&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007500&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; ; font-size: 10pt ; text-indent: 0in&quot;&gt;处理跨链交易，写入内存&lt;/span&gt;handleInterchainWrapperAndPersist&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;glass=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tNKBGbFyiwu89ULKIqhC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;fontColor=#000066;" edge="1" parent="1" source="tNKBGbFyiwu89ULKIqhC-9" target="tNKBGbFyiwu89ULKIqhC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tNKBGbFyiwu89ULKIqhC-9" value="&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34; ; font-variant: normal ; text-transform: none ; font-style: normal ; vertical-align: baseline&quot;&gt;&lt;font color=&quot;#666600&quot;&gt;&lt;b&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;jetbrains mono&amp;#34; ; vertical-align: baseline&quot;&gt;验证&lt;/span&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34; ; vertical-align: baseline&quot;&gt;tx&lt;/span&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;jetbrains mono&amp;#34; ; vertical-align: baseline&quot;&gt;，构造&lt;/span&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34; ; vertical-align: baseline&quot;&gt;IBTP&lt;br&gt;&lt;/span&gt;handleInterchainTxWrapper&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;fillColor=#e3c800;strokeColor=#B09500;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="290" width="192" height="50" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="tNKBGbFyiwu89ULKIqhC-13" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;syncer.ibtpC&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontColor=#660000;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tNKBGbFyiwu89ULKIqhC-16" value="&lt;font color=&quot;#000066&quot;&gt;&lt;b&gt;verifyWrapper-&amp;gt;GetIBTP-&amp;gt;WrappedIBTP&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
