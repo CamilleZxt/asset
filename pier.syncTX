@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T09:49:20.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="lka4xngO8ze0RU4J-bbQ" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T09:49:32.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="f4gmGhh7mxb1dEaFjZn0" version="16.1.0" type="github">
   <diagram id="1WfknyZP9FfiymJWjheU" name="Page-1">
     <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,15 @@
         </mxCell>
         <mxCell id="tNKBGbFyiwu89ULKIqhC-20" value="&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34; ; font-variant: normal ; text-transform: none ; font-style: normal ; vertical-align: baseline&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; ; font-size: 10pt ; text-indent: 0in&quot;&gt;验证，执行&lt;/span&gt;applyInterchain&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNKBGbFyiwu89ULKIqhC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#3D665F;" edge="1" parent="1" source="tNKBGbFyiwu89ULKIqhC-22" target="tNKBGbFyiwu89ULKIqhC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNKBGbFyiwu89ULKIqhC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#3D665F;" edge="1" parent="1" source="tNKBGbFyiwu89ULKIqhC-22" target="tNKBGbFyiwu89ULKIqhC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNKBGbFyiwu89ULKIqhC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#3D665F;" edge="1" parent="1" source="tNKBGbFyiwu89ULKIqhC-22" target="tNKBGbFyiwu89ULKIqhC-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tNKBGbFyiwu89ULKIqhC-22" value="&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34; ; font-variant: normal ; text-transform: none ; font-style: normal ; vertical-align: baseline&quot;&gt;&lt;b&gt;&lt;font color=&quot;#a680b8&quot;&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;处理来自&lt;/span&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34;&quot;&gt;bitxhub&lt;/span&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;text-indent: 0in ; font-size: 10pt ; font-family: &amp;#34;arial unicode ms&amp;#34;&quot;&gt;IBTP&lt;br&gt;&lt;/span&gt;handleIBTP&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="249" y="410" width="170" height="40" as="geometry" />
