@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T11:45:12.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="vFTo3jTocN97DXb9dmf_" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T11:45:52.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="qZP-Y31gJpNaVQr4jp11" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="488" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="51BSOs0XTWdcMv7clfH0-37" value="&lt;pre style=&quot;font-family: Consolas, monospace; font-size: 11.3pt;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;GetChainInfoParam&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="496" y="290" width="160" height="60" as="geometry" />
+          <mxGeometry x="500" y="300" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="51BSOs0XTWdcMv7clfH0-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;hash&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="488" y="430" width="80" height="20" as="geometry" />
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="51BSOs0XTWdcMv7clfH0-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;code&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="488" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JchH3dlNpe_ZmkbuLp-2-3" value="&lt;pre style=&quot;font-family: Consolas, monospace; font-size: 11.3pt;&quot;&gt;发起者账户地址&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="568" y="335" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JchH3dlNpe_ZmkbuLp-2-4" value="&lt;pre style=&quot;font-family: Consolas, monospace; font-size: 11.3pt;&quot;&gt;接收者账户地址&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="568" y="350" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
